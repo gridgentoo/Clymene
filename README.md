@@ -12,8 +12,8 @@
 https://github.com/Clymene-project/Clymene 
 
 ## RoadMap
-Платформа AI/ML для clymene (https://github.com/Clymene-project/clymene-analyzer )
-Агент трассировки eBPF (для версии v3.0.0)
+Платформа AI/ML для clymene (https://github.com/Clymene-project/clymene-analyzer )   
+Агент трассировки eBPF (для версии v3.0.0).  
 
 The Clymene is a time-series data and logs collection platform for distributed systems inspired
 by [Prometheus](https://prometheus.io)

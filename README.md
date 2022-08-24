@@ -8,6 +8,13 @@
 
 <img align="right" width="40%" height="40%" src="https://user-images.githubusercontent.com/25188468/148681479-3ddf237c-6e5d-49a1-a517-8b3bfa92f54e.png" alt="clymene_logo">
 
+## Оригинальный репозитарий  
+https://github.com/Clymene-project/Clymene 
+
+## RoadMap
+Платформа AI/ML для clymene (https://github.com/Clymene-project/clymene-analyzer )
+Агент трассировки eBPF (для версии v3.0.0)
+
 The Clymene is a time-series data and logs collection platform for distributed systems inspired
 by [Prometheus](https://prometheus.io)
 and [Jaeger](https://www.jaegertracing.io). Time-series data and logs from various environments can be collected and stored in
